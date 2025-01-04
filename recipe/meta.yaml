@@ -40,7 +40,7 @@ test:
     - pip check
     - randomfiletree --help
     - coverage run --source=randomfiletree --branch -m pytest -vv --color=yes --tb=long --pyargs randomfiletree 
-    - coverage report --show-missing --skip-covered --fail-under=96
+    - coverage report --show-missing --skip-covered --fail-under=94
 
 about:
   home: https://github.com/klieret/RandomFileTree

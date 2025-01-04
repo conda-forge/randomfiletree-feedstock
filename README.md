@@ -7,7 +7,7 @@ Home: https://github.com/klieret/RandomFileTree
 
 Package license: MIT
 
-Summary: Create a random file/directory tree/structure in python fortesting purposes.
+Summary: Create a random file/directory tree/structure in python for testing purposes.
 
 Documentation: https://randomfiletree.readthedocs.io
 
